@@ -5,18 +5,8 @@
 *::after {
   box-sizing: border-box;
 }
-body,
-h1,
-h2,
-h3,
-p,
-ul,
-li,
-form,
-input,
-textarea,
-select,
-button {
+
+body{
   font-family: sans-serif;
 }
 
